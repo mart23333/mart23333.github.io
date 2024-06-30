@@ -1,0 +1,14 @@
+body {background-color: blanchedalmond;
+    padding: 10;
+}
+img { width: 400px;
+     
+}
+nav u1 l1 a{
+    text-decoration: black;
+
+
+}
+    nav u1 l1 a:hover{
+        color: rgb(165, 42, 42);
+    }
